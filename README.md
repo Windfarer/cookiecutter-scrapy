@@ -2,5 +2,5 @@
 
 Usage:
 ```bash
-cookiecutter https://github.com/Windfarer/cookiecutter-python.git
+cookiecutter https://github.com/Windfarer/cookiecutter-scrapy.git
 ```
