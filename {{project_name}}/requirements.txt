@@ -1,0 +1,4 @@
+scrapy
+mongoengine
+sqlalchemy
+pymysql
